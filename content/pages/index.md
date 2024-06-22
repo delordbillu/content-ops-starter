@@ -8,10 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Empowering with Cutting-Edge Software Innovations
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      At InnoSphere, we believe in the transformative power of technology. Our
+      mission is to deliver exceptional software solutions that drive business
+      growth and operational efficiency. With a team of experienced developers,
+      creative problem solvers, and dedicated support staff, we are committed to
+      providing our clients with customized software that meets their unique
+      needs and exceeds their expectations.
+
     actions:
       - label: Get started
         altText: ''
