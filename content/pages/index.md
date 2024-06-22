@@ -4,14 +4,19 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Innovating the Future of Software Solutions
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: Empowering with Cutting-Edge Software Innovations
+    text: >+
+
+      At InnoSphere, we believe in the transformative power of technology. Our
+      mission is to deliver exceptional software solutions that drive business
+      growth and operational efficiency. With a team of experienced developers,
+      creative problem solvers, and dedicated support staff, we are committed to
+      providing our clients with customized software that meets their unique
+      needs and exceeds their expectations.
+
     actions:
       - label: Get started
         altText: ''
@@ -32,7 +37,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/IMG-20240508-WA0056.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -218,7 +223,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - title: Divider
+  - title: Divide
     colors: bg-light-fg-dark
     styles:
       self:
@@ -435,7 +440,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +470,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +530,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +560,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +655,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
