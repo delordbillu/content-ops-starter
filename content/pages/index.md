@@ -7,7 +7,7 @@ sections:
       text: Innovating the Future of Software Solutions
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Empowering with Cutting-Edge Software Innovations
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
